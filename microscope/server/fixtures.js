@@ -1,7 +1,7 @@
 if (Posts.find().count() === 0) {
   Posts.insert({
-    title: 'Introducing Telescope',
-    url: 'http://sachagreif.com/introducing-telescope/'
+    title: 'Repositorio de la presentación',
+    url: 'https://github.com/alu0100498820/Introduccion_Meteor'
   });
 
   Posts.insert({
