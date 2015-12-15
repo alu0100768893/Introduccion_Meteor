@@ -567,6 +567,10 @@ Vuelve a mirar el navegador, deberías ver esto:
 
 Acabas de ver la reactividad en acción. Cuando le pedimos a Spacebars que recorra el cursor `Posts.find()`, él ya sabe cómo monitorizar este cursor en busca de cambios, y de esa forma, alterar el código HTML para mostrar los datos correctos en la pantalla.
 
+Y con esto terminamos nuestra tutorial de introducción al framework METEOR.
+
+Si desean profundizar más sobre este framework les animamos a que consulten la blibliografía
+
 ## 6. ***Bibliografía***
 
 + https://www.meteor.com/
