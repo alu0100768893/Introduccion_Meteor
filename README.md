@@ -59,13 +59,21 @@ Permite crear una aplicación web en tiempo real en cuestión de horas. Y si ya 
 Meteor nos permite escribir aplicaciones web más eficientes, versátiles y modernas.   La comunidad, sin ser todavía amplia si que es lo suficientemente grande como para que existan bastantes librerías y utilidades, además de recursos y documentación.
 
 Para lograr esto METEOR se basa en siete principios fundamentales:
+
 1. **Data on the wire:** No se manda porciones de Html sobre la red, se mandan datos al cliente (plantilla) y es él el que decide como los visualiza.
+
 2. **One language:** Todo el código tanto en el lado del cliente como en el servidor se escribe en JavaScript (Aunque se soporta CoffeeScript por medio de un paquete).
+
 3. **Database everywhere:** Utiliza de igual forma el API de acceso a la base de datos tanto en el cliente como en el servidor.
+
 4. **Latency compensation:** En el cliente se simula la interacción para que se vea como si no hubiera tiempo de latencia en el acceso a la base de datos.
+
 5. **FULL STACK reactivity:** Actualiza en tiempo real automaticamente, toda la información desde la base de datos y la sesión del usuario al sistema de plantillas  esto es realizado por su sistema de orientación a eventos que escucha y replica cambios en la información.
+
 6. **Embrace the ecosystem:** Meteor no pretende reinventar la rueda, por lo tanto animan al usuario a que integre otras herramientas existentes, por lo tanto es muy común ver un uso de meteor complementado por otros frameworks existentes que facilitan el desarrollo.
-7.
+
+7. **Simplicity equals productivity:** La mejor manera de que algo parezca simple es que en realidad sea simple, esto se logra con una API limpia que simplifica el código y por lo tanto aumenta la productividad.
+
 
 ## 2. ***Empezando.***
  + Instalación.
