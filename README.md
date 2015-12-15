@@ -1,8 +1,10 @@
 
 <p align="center">
-![Sin titulo](http://mycyberacademy.com/wp-content/uploads/2015/03/meteor-logo.png)  
+<img src="http://mycyberacademy.com/wp-content/uploads/2015/03/meteor-logo.png" title="Meteorlogo">  
 </p>
+
 ---
+
 ## *INDICE*
 
 ##### 1. Introducción.
